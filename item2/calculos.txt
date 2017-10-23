@@ -1,0 +1,10 @@
+T_min = 0.31200
+T_max = 0.61600
+dT = 0.30400
+
+10mV <=> 1ºC
+T <=> Temp
+
+dTemp = 30.4 ºC
+Temp_min = 31.2 ºC
+Temp_max = 61.6 ºC
